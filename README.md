@@ -1,7 +1,7 @@
-### Hi there, I'm [Koro!](https://korobaka.tech) 👋
+### Hi there, I'm [Koro!](https://krbk.dev) 👋
 
-<a href="https://twitter.com/koro_backup">
-  <img align="left" alt="Koro~ (Baka) | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="https://twitter.com/koro_baka">
+  <img align="left" alt="Koro~ (Baka) | Twitter" width="21px" src="https://raw.githubusercontent.com/korobaka/korobaka/master/assets/twitter.svg" />
 </a>
 
 <br />
