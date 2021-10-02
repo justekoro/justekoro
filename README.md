@@ -9,7 +9,7 @@
 
 Hi, I'm Koro, a passionate backend web developer from France.
 
-- 🔭 I’m currently working on [tw-dsc](https://github.com/korobaka/tw-dsc)
+- 🔭 I’m currently working on [ubereats.js](https://github.com/korobaka/ubereats.js)
 - 🌱 I’m currently learning CSS
 - 💬 Ask me about anything [here](https://github.com/korobaka/korobaka/issues)
 
