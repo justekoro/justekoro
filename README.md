@@ -1,9 +1,14 @@
 ### Hi there, I'm [Koro!](https://krbk.dev) 👋
 
-<a href="https://twitter.com/koro_baka">
-  <img align="left" alt="Koro~ (Baka) | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="https://twitter.com/justekoro">
+  <img align="left" alt="koro | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-
+<a href="https://instagram.com/justekoro">
+  <img align="left" alt="koro | Instagram" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />
+</a>
+<a href="https://discord.com/users/304541381798658048">
+  <img align="left" alt="koro | Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord.svg">
+</a>
 <br />
 <br />
 
