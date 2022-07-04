@@ -14,8 +14,8 @@
 
 Hi, I'm Koro, a passionate backend web developer from France.
 
-- 🔭 I’m currently working on [ubereats.js](https://github.com/korobaka/ubereats.js)
-- 🌱 I’m currently learning CSS
+- 🔭 I’m currently working on [a personal project](https://ess.krk.dev)
+- 🌱 I’m currently learning *typescript*
 - 💬 Ask me about anything [here](https://github.com/korobaka/korobaka/issues)
 
 **Languages and Tools:**  
