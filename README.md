@@ -14,9 +14,9 @@
 
 Hi, I'm Koro, a passionate backend web developer from France.
 
-- 🔭 I’m currently working on [a personal project](https://ess.krk.dev)
+- 🔭 I’m currently working on [streamer-emoteonly](https://github.com/justekoro/streamer-emoteonly)
 - 🌱 I’m currently learning *typescript*
-- 💬 Ask me about anything [here](https://github.com/korobaka/korobaka/issues)
+- 💬 Ask me about anything [here](https://github.com/justekoro/justekoro/issues)
 
 **Languages and Tools:**  
 
