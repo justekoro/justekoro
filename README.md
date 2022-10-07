@@ -9,7 +9,7 @@
 <a href="https://discord.com/users/304541381798658048">
   <img align="left" alt="koro | Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord.svg">
 </a>
-![stats](https://hits.hop.sh/v1/hits?url=https%3A%2F%2Fgithub.com%2Fjustekoro&bgRight=FAA0A0)
+<img align="left" alt="hihts" src="https://hits.hop.sh/v1/hits?url=https%3A%2F%2Fgithub.com%2Fjustekoro&bgRight=FAA0A0">
 <br />
 <br />
 
