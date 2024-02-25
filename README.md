@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm koro</h1>
 <h3 align="center">A passionate backend developer from France</h3>
 
-<center>
+<div align="center">
     <h4>Profile views:</h4>
     <img src="https://moe-counter.glitch.me/get/@justekoro" />
-</center>
+</div>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=justekoro&label=Profile%20views&color=0e75b6&style=flat" alt="justekoro" /> </p> -->
 
