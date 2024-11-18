@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **anything [here](https://github.com/justekoro/justekoro/issues)**
 
-- 📫 Mail me @ **me@krbk.dev**
+- 📫 Mail me @ **juste@koro.icu**
 
 - 📄 Know about my experiences at [https://krbk.dev](https://krbk.dev)
 
