@@ -3,7 +3,7 @@
 
 <div align="center">
     <h4>Profile views:</h4>
-    <img src="https://moe-counter.glitch.me/get/@justekoro" />
+    <img src="https://count.getloli.com/get/@justekoro" />
 </div>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=justekoro&label=Profile%20views&color=0e75b6&style=flat" alt="justekoro" /> </p> -->
