@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/justekoro" target="blank"><img src="https://img.shields.io/twitter/follow/justekoro?logo=twitter&style=for-the-badge" alt="justekoro" /></a> </p>
 
-- 🔭 I’m currently working with [111418](https://github.com/111418)
+- 🔭 I’m currently looking for an internship!
 
 - 👯 I’m looking to collaborate on **anything you'd like!**
 
